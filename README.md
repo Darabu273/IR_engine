@@ -1,5 +1,4 @@
-# IR_engine
-Wikipedia Information Retrieval (IR) Engine
+# Wikipedia Information Retrieval (IR) Engine
 
 
 WIKIPEDIA INFORMATION RETRIEVAL (IR) ENGINE
